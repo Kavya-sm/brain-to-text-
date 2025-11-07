@@ -1,7 +1,4 @@
-# eeg_to_text_complete_fixed.py
-"""
-Complete EEG to Text model with all features except PCA - FIXED VERSION
-"""
+
 import os
 import math
 import json
